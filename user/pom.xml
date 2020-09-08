@@ -28,7 +28,6 @@
 		<spring-cloud.version>Finchley.M2</spring-cloud.version>
 	</properties>
 
-
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
